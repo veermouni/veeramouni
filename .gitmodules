@@ -1,0 +1,3 @@
+[submodule "cucumberbasic"]
+	path = cucumberbasic
+	url = https://github.com/executeautomation/cucumberbasic.git
